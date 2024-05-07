@@ -1,0 +1,10 @@
+{
+    "name": "circular-words",
+    "author": {
+        "name": "Catrina Gonzalo"
+    },
+    "version": "1",
+    "description": "Circular words problem",
+    "main": "main.js",
+    "type": "module"
+}
